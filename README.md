@@ -15,6 +15,5 @@ Smart contract calls integrated;
 
 
 ## Links
-+ [Website](https://www.tronlink.org/)
 + [Support](https://t.me/tronlink)
 + [Twitter](https://twitter.com/TronLinkWallet)
