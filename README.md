@@ -1,6 +1,6 @@
 # TronLink  
 
-TronLink is firstly launched at TRON’s official website and backed by TRON foundation, TronLink is the TRON wallet with the most users, coming in three versions (Chrome Wallet Extension/iOS/Android), and you're looking at the Chrome Wallet Extension for TRON.   
+TronLink is firstly launched at TRON’s official website and backed by TRON foundation, TronLink is the TRON wallet with the most users, coming in three versions (Chrome Wallet Extension/Windows/Linux), and you're looking at the Windows Wallet for TRON.   
 
 Main functions:    
 
