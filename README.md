@@ -1,6 +1,6 @@
 # TronLink  
 
-TronLink is firstly launched at TRON’s official website and backed by TRON foundation, TronLink is the TRON wallet with the most users, coming in three versions (Chrome Wallet Extension/Windows/Linux), and you're looking at the Windows Wallet for TRON.   
+TronLink is firstly launched at TRON’s official website and backed by TRON foundation, TronLink is the TRON wallet with the most users, coming in three versions (Chrome Wallet Extension/Windows/Linux), and you're looking at the Legacy Windows Wallet v2.9 which supports older 128 bit private keys for TRON.   
 
 Main functions:    
 
